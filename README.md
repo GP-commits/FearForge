@@ -243,11 +243,3 @@ The goal is:
 
 ---
 
-If you want, I can also:
-
-* Shorten this README for submission
-* Convert it to Markdown for GitHub
-* Add a **Controls + Credits** section
-* Write a **judge-facing description**
-
-Just tell me 👍
