@@ -1,8 +1,6 @@
 # FearForge
 
-Perfect 👍
-Below is a **clean, jam-ready README** you can **copy–paste directly**.
-It explains **every mechanic clearly**, in a way **judges + other devs understand instantly**.
+
 
 ---
 
